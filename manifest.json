@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Flan Dark Mode",
   "version": "1.0",
-  "description": "Toggles dark mode on websites when clicking the extension icon. Unlike other extensions, this one actually works and it's very light.",
+  "description": "Toggle dark mode by clicking the extension icon. Unlike other extensions, this one it's very light and it actually works",
   "permissions": ["scripting", "activeTab"],
   "host_permissions": ["<all_urls>"] ,
   "background": {
