@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Invert Filter Extension",
+  "name": "Flan Dark Mode",
   "version": "1.0",
-  "description": "Applies an invert filter to all webpages, except images and videos.",
+  "description": "Toggles dark mode on websites when clicking the extension icon. Unlike other extensions, this one actually works and it's very light.",
   "permissions": ["scripting", "activeTab"],
   "host_permissions": ["<all_urls>"] ,
   "background": {
